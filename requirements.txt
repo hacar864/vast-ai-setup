@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep learning
+torch
+torchvision
+torchaudio
+torchsummary
+
+# Jupyter & notebooks
+jupyter
+notebook
+ipykernel
+jupyterlab
+
+# Utilities
+tqdm
+requests
+pyyaml
